@@ -1,0 +1,7 @@
+{
+  "name": "rose-camera-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
