@@ -1,3 +1,4 @@
+
 <template>
   <ion-page>
     <ion-content :fullscreen="true" class="camera-bg">

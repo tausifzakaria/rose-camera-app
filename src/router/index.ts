@@ -1,11 +1,11 @@
-
 import { createRouter, createWebHistory } from '@ionic/vue-router';
 import { RouteRecordRaw } from 'vue-router';
+import CameraApp from '@/views/CameraApp.vue';
 
 const routes: Array<RouteRecordRaw> = [
   {
-    path: '',
-    component: () => import('@/views/CameraApp.vue')
+    path: '/',
+    component: CameraApp,
   }
 ]
 
