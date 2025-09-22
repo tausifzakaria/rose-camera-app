@@ -1,2 +1,11 @@
 /* For information on how to create your own theme, please see:
 http://ionicframework.com/docs/theming/ */
+@font-face {
+    font-family: 'Babe';
+    src: url('./Babe.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    font-family: 'Babe', sans-serif;
+}
